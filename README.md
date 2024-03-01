@@ -3,7 +3,7 @@
 #### I am a recent graduate of General Assembly's Software Engineering Intensive course.
 
 
-I am a Junior Developer in the Seattle who loves to code and tackle exciting new challenges. 
+I am a Junior Developer in the Seattle area who loves to code and tackle exciting new challenges. 
 
 Skills: JavaScript / React / Python / Node.js / Express / HTML / CSS / Mongoose / MongoDb / Jquery
 
